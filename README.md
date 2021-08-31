@@ -36,7 +36,7 @@ Python solutions of Facebook Hacker Cup 2014. Solution begins with `*` means it 
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 | 1 | [Secret Santa](https://www.facebook.com/hackercup/problem/1427296790834577/) | | | | | | |
-| 2 | [Pizza Baking](https://www.facebook.com/hackercup/problem/1392143854367184/) | | | | Very Hard | | |
+| 2 | [Pizza Baking](https://www.facebook.com/hackercup/problem/1392143854367184/) | | | | | | |
 | 3 | [Restaurant Chains](https://www.facebook.com/hackercup/problem/395536453921142/) | | | | | | |
 
 ## Final Round
